@@ -1,7 +1,6 @@
 # Git-Branching
 ---
 ### To list all the available branches
-</hr>
 ``` git branch ```
 ### To create new branch 
 ``` git branch <branchName> ```
