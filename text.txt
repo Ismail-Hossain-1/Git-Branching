@@ -1,2 +1,3 @@
 It is test text file to operate the branching.
+
 This change was done from ismail2 branch.
