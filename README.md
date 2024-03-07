@@ -11,6 +11,9 @@
 ### To create a bew branch and switch init the new branch
 ``` git checkout -b "<branchName>" ```
 
+### Check remote repo url
+`git remote show origin`
+
 ### To update a branch from main or master branch
 1. update the main or master branch ( git pull (switch into the main branch if not onto it -git checkout <main>) )
 2. merge with the main or master branch
