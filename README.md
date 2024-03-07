@@ -13,6 +13,9 @@
 
 ### Check remote repo url
 `git remote show origin`
+### Delete a local repo:
+` rm -fr .git `
+
 
 ### To update a branch from main or master branch
 1. update the main or master branch ( git pull (switch into the main branch if not onto it -git checkout <main>) )
